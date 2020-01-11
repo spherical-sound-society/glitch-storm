@@ -1,1 +1,1 @@
-temp
+For it to compile right, you have to rename the folder from source-code to glitch_storm. Let inside both .ino files and compile with the arduino IDE to your arduino nano
