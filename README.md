@@ -1,7 +1,9 @@
 # glitch-storm
 
 5 March 2020: Two new modes added:
+
 -While left button is pressed, you can change the speed of the main timer up to x15 faster tweaking POT 1
+
 -Also, while left button is pressed, you can tweak POT 2 to change the main sample rate, going for the actual 16384Hz down to 256Hz, 
 so now you can tune the machine to your preferred interval down to LFOs speeds.
 
