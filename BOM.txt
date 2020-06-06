@@ -1,12 +1,12 @@
 Resistors
-5x	1k	R1,R3,R7,R8,R9	1/4W
+5x	15-20k	R1,R3,R7,R8,R9	1/4W (this are the led resistors, use 10k to 20k. 10K quite bright, 20K tammed
 
 Caps
-1x 100nF	C1 CERAMIC
-1x	1u	C5	ELECTROLITYC		
+1x 100nF	C1 CERAMIC (deprecated, not needed, it produces a subtle filtering)
+1x	1uF-10uF	C5	ELECTROLITYC	 (anything from 1 to 10uf or more should work)	
 
 Hardware
-4x	POT	POT1,POT2,POT3	ALPS VERTICAL TYPE B10K LINEAR	(pretty much any linear pot will work, recommended between 10K and 100K)
+3x	POT	POT1,POT2,POT3	ALPS VERTICAL TYPE B10K LINEAR	(pretty much any linear pot will work, recommended between 10K and 100K)
 2x		SW1,SW2	SWITCH-6X6X5 milimeters, Through Hole	
 
 Misc
