@@ -1,0 +1,13 @@
+What´s new Version 0.99:
+
+Equation no 15 (all leds on) reworked so now is way more melodic / playable
+Equation no 16 (all leds off) brand new one. It was the empty slot
+
+Keyboard combos changes:
+
+To modify SAMPLE RATE >>> long press LEFT button + tweak knob 1
+To modify reversal time >>> long press RIGHT button + tweak knob 1
+To ENTER or EXIT the leds showing the GATES (to synch with other gear)  >>>
+press BOTH buttons long (+1 second) and release LEFT button FIRST
+
+This keyboard changes serve a function: it does not change in which program you are after long press, so you can modify both RATE and TIME without exiting the program you are tweaking
